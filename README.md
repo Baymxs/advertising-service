@@ -1,6 +1,6 @@
-# Database service
+# Advertising service
 ---
-Database service is a Java program that provides a service for working with adversing(banners and categories).
+Advertising service is a Java program that provides a service for working with advertising(banners and categories).
 
 # Installation
 ---
